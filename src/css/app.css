@@ -1,0 +1,185 @@
+@font-face {
+    font-family: 'gilroy';
+    src: url('font/radomir_tinkov_-_gilroy-bold-webfont.woff2') format('woff2'),
+         url('font/radomir_tinkov_-_gilroy-bold-webfont.woff') format('woff'),
+         url('font/radomir_tinkov_-_gilroy-bold-webfont.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'gilroy';
+    src: url('font/radomir_tinkov_-_gilroy-extrabold-webfont.woff2') format('woff2'),
+         url('font/radomir_tinkov_-_gilroy-extrabold-webfont.woff') format('woff'),
+         url('font/radomir_tinkov_-_gilroy-extrabold-webfont.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'gilroy';
+    src: url('font/radomir_tinkov_-_gilroy-light-webfont.woff2') format('woff2'),
+         url('font/radomir_tinkov_-_gilroy-light-webfont.woff') format('woff'),
+         url('font/radomir_tinkov_-_gilroy-light-webfont.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'gilroy';
+    src: url('font/radomir_tinkov_-_gilroy-regular-webfont.woff2') format('woff2'),
+         url('font/radomir_tinkov_-_gilroy-regular-webfont.woff') format('woff'),
+         url('font/radomir_tinkov_-_gilroy-regular-webfont.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'gilroy';
+    src: url('font/radomir_tinkov_-_gilroy-semibold-webfont.woff2') format('woff2'),
+         url('font/radomir_tinkov_-_gilroy-semibold-webfont.woff') format('woff'),
+         url('font/radomir_tinkov_-_gilroy-semibold-webfont.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.visually-hidden {
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+}
+
+.container {
+    max-width: 70rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.glow-line {
+    height: 1px;
+    background-color: #fff;
+    box-shadow: 0 0 12px 4px rgba(255,255,255,0.5);
+
+}
+.divider {
+    display: block;
+    width: 100%;
+    height: 1px;
+    border: none;
+    background-color: #fff;
+    box-shadow: 0 0 12px 4px rgba(255,255,255,0.5);
+}
+.generated > * {
+    margin-bottom: 1rem;
+}
+.generated > *:last-child {
+    margin-bottom:0;
+}
+.generated ul {
+    list-style: disc;
+    list-style-position: inside;
+    max-width: 52rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.karriere .generated ul {
+    @apply text-teal-400;
+}
+
+.generated a {
+    @apply text-teal-400;
+}
+
+.generated a:hover {
+    @apply text-teal-600;
+}
+
+.main-menu {
+    top: -100%;
+    transition: top 300ms ease-in;
+}
+.main-menu.is-visible {
+    top: 0;
+}
+
+.circles-container {
+    background-position: -15% 50%;
+}
+
+.hero {
+    padding-top: 50%;
+}
+
+.glow {
+    box-shadow: none;
+    transition: box-shadow 300ms ease;
+}
+.glow:hover {
+    box-shadow: 0 0 24px 8px rgba(255,255,255,0.5);
+}
+@screen sm {
+    .hero {
+        padding-top: 50%;
+    }
+}
+
+@screen md {
+    .hero {
+        padding-top: 45%;
+    }
+
+}
+@screen lg {
+    .generated ul {
+        column-count: 2;
+    }
+    .karriere.generated ul {
+        column-count: 1;
+    }
+    .main-menu {
+        top: -6rem;
+    }
+    .main-menu.is-scrolled {
+        top: 0;
+    }
+
+    .main-menu .menulink {
+        width: calc((100% - 12rem) / 8);
+        position: relative;
+    }
+    .main-menu .menulink::after {
+        content: "";
+        position: absolute;
+        bottom: 0;
+        left: 1rem;
+        right: 1rem;
+        height: 1px;
+        @apply bg-gray-200;
+        box-shadow: none;
+        transition: box-shadow 300ms ease, background-color 300ms ease;
+    }
+    .main-menu .menulink:hover::after, .main-menu .menulink.is-current::after {
+        @apply bg-white;
+        box-shadow: 0 0 24px 8px rgba(255,255,255,0.5);
+    }
+}
+@screen xl {
+   .hero {
+        padding-top: 40%;
+    }
+    .circles-container {
+        background-image: url('/assets/images/circles-3.png');
+    }
+}

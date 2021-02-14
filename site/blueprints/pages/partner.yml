@@ -1,0 +1,68 @@
+title: Partner
+
+columns: 
+  - width: 3/4
+    sections:
+        content:
+            type: fields
+            fields:
+                contentblocks:
+                    label: Blocks
+                    type: builder
+                    fieldsets:
+                        heading:
+                            name: Heading
+                            fields:
+                                text:
+                                    type: text
+                                    label: Heading
+                        subheading:
+                            name: Subheading
+                            fields:
+                                text:
+                                    type: text
+                                    label: Subheading
+                        text:
+                            name: Text
+                            fields:
+                                text:
+                                    type: textarea
+                                    label: Text
+                        image:
+                            name: Image
+                            fields:
+                                image:
+                                    type: files
+                                    multiple: false
+                                    layout: cards
+                        ruler:
+                            name: Line
+                            fields:
+                                line:
+                                    type: toggle
+                                    label: Line
+                partnerlist:
+                    type: structure
+                    label: Partner List
+                    fields:
+                        name:
+                            type: text
+                            label: Name
+                        link:
+                            type: url
+                            label: Link
+                        logo:
+                            type: files
+                            label: Logo
+                            multiple: false
+
+  - width: 1/4
+    sections:
+        images:
+            type: files
+            headline: Page Images
+            layout: cards
+                                  
+
+
+                         

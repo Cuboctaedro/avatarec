@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'gilroy';
+    src: url('radomir_tinkov_-_gilroy-bold-webfont.woff2') format('woff2'),
+         url('radomir_tinkov_-_gilroy-bold-webfont.woff') format('woff'),
+         url('radomir_tinkov_-_gilroy-bold-webfont.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'gilroy';
+    src: url('radomir_tinkov_-_gilroy-extrabold-webfont.woff2') format('woff2'),
+         url('radomir_tinkov_-_gilroy-extrabold-webfont.woff') format('woff'),
+         url('radomir_tinkov_-_gilroy-extrabold-webfont.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'gilroy';
+    src: url('radomir_tinkov_-_gilroy-light-webfont.woff2') format('woff2'),
+         url('radomir_tinkov_-_gilroy-light-webfont.woff') format('woff'),
+         url('radomir_tinkov_-_gilroy-light-webfont.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'gilroy';
+    src: url('radomir_tinkov_-_gilroy-regular-webfont.woff2') format('woff2'),
+         url('radomir_tinkov_-_gilroy-regular-webfont.woff') format('woff'),
+         url('radomir_tinkov_-_gilroy-regular-webfont.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'gilroy';
+    src: url('radomir_tinkov_-_gilroy-semibold-webfont.woff2') format('woff2'),
+         url('radomir_tinkov_-_gilroy-semibold-webfont.woff') format('woff'),
+         url('radomir_tinkov_-_gilroy-semibold-webfont.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}

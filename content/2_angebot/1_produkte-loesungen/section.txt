@@ -1,0 +1,115 @@
+Title: Produkte & Lösungen
+
+----
+
+Section-image:
+
+- produkte.jpg
+
+----
+
+Contentblocks:
+
+- 
+  text: Netzwerklösungen
+  _key: subheading
+  _uid: subheading_1612622631075_220
+- 
+  text: AVATAREC – eine sichere Quelle
+  _key: heading
+  _uid: heading_1612622636836_220
+- 
+  text: |
+    Nur wenn die Daten einwandfrei fließen und Sie sich keine Sorgen um die nachhaltige Datensicherung in Ihrem Unternehmen machen müssen, können Sie sich voll und ganz auf Ihr Kerngeschäft konzentrieren. Und so soll es schließlich auch sein. Damit Sie den Kopf frei haben, nehmen wir Ihnen bei Bedarf alle Dienstleitungen rund um Ihr Netzwerk ab: AVATAREC betrachtet in einem Unternehmen alle relevanten Vorgänge, um ein optimales Verhalten Ihrer EDV-Struktur zu garantieren.
+    Überwiegend nutzen größere Unternehmen unser Wissen, um die EDV-Strukturen durch uns entwickeln, pflegen und warten zu lassen. Die Größe Ihres Unternehmens ist für uns nicht entscheidend. Uns ist viel wichtiger: Pro-aktiv zu agieren, um Störungen zu vermieden, bevor diese überhaupt entstehen können.
+    Unsere Leistungen umfassen die gesamte Planung von Netzwerken. Eine Grundvoraussetzung hierfür: alles im Blick zu haben, was für Ihr Unternehmen relevant ist. Wir bieten kein Netzwerk „von der Stange“, sondern individuelle Planungen mit Lösungen auf höchstem Niveau.
+  _key: text
+  _uid: text_1612622643876_220
+- 
+  line: 'true'
+  _key: ruler
+  _uid: ruler_1612622648988_220
+- 
+  text: ' IT-Infrastruktur'
+  _key: heading
+  _uid: heading_1612622656860_220
+- 
+  text: 'AVATAREC bietet seinen Kunden in vielen Fachrichtungen der IT-Landschaft kompetente Leistungen: vom IT-Arbeitsplatz über IP-Telefonie über die Routing-/Switch-Technologie bis zu zentralen Server-Storage Komponenten. Um Netzwerkverbindungen im Büro und unterwegs dauerhaft, stabil und schnell aufzubauen, arbeitet AVATAREC mit namhaften Partnern der Branche zusammen. Je nach Bedarf werden individuelle Lösungen installiert.'
+  _key: text
+  _uid: text_1612622662676_220
+- 
+  line: 'true'
+  _key: ruler
+  _uid: ruler_1612622666868_220
+- 
+  text: Server Storage
+  _key: heading
+  _uid: heading_1612622672684_220
+- 
+  text: |
+    Das zentrale Element jedes IT-Netzwerkes sind die Server- und Storage-Systeme. Hier treffen sich alle Rechenleistungen und bieten dem Unternehmen den nötigen (Speicher-)Platz, um alle Daten zuverlässig und sicher zu speichern. Um dies zu gewährleisten, arbeiten wir mit den Technologieunternehmen Fujitsu und NetApp zusammen.
+    Mit den speziellen Lösungen von Microsoft und VM-Ware kann AVATAREC eine bestmögliche Performance und starke Zuverlässigkeit im Bereich der Betriebssysteme und Virtuellen Umgebungen bieten. Die Mitarbeiter unserer Kunden schätzen zuverlässige Systeme!
+  _key: text
+  _uid: text_1612622678812_220
+- 
+  line: 'true'
+  _key: ruler
+  _uid: ruler_1612622685173_220
+- 
+  text: ' IP-Telefonie'
+  _key: heading
+  _uid: heading_1612622688837_220
+- 
+  text: |
+    Die Telefonie hat sich einem starken Wandel unterzogen. Die aktuelle Technologie ist IP-basiert. Um unseren Kunden einen technischen Vorteil zu bieten, setzt AVATAREC seit Jahren auf diese Technik.
+    Hier lautet unsere klare Strategie, mit einem deutschen Hersteller die optimalen Lösungen zu bieten. Durch unsere langfristige Zusammenarbeit mit der „Deutschen Telefon Standard AG“ ist AVATAREC in der Lage, direkt mit der Entwicklungsabteilung zu arbeiten, um den bestmöglichen Service zu ermöglichen.
+  _key: text
+  _uid: text_1612622699780_220
+- 
+  line: 'true'
+  _key: ruler
+  _uid: ruler_1612622705678_220
+- 
+  text: IT-Security
+  _key: heading
+  _uid: heading_1612622711685_220
+- 
+  text: >
+    Gefahren durch verschiedenste
+    Software-schädliche Mal-Ware können
+    erhebliche Schäden in der IT-Landschaft
+    verursachen. Vorsichtiger Umgang mit
+    unbekannten E-Mails und Daten hilft,
+    IT-Netzwerke und Daten zu schützen;
+    ebenso wie der Einsatz von
+    Security-Lösungen, die Unachtsamkeiten
+    von Mitarbeitern abfangen. Mit den
+    Lösungen der Panda Security sind Sie,
+    Ihre Mitarbeiter und auch Ihre Kunden
+    bestens geschützt!
+  _key: text
+  _uid: text_1612622717870_220
+- 
+  image:
+    - erp.jpg
+  _key: image
+  _uid: image_1612622976725_220
+- 
+  text: ERP-Systeme
+  _key: subheading
+  _uid: subheading_1612622990118_220
+- 
+  text: AVATAREC – öffnet Schleusen
+  _key: heading
+  _uid: heading_1612622996893_220
+- 
+  text: |
+    Sie möchten möglichst effizient arbeiten und die eigenen Ressourcen gewinnbringend einsetzen? ERP-Lösungen können Sie hierbei sinnvoll unterstützen. Wir integrieren diese fortschrittliche Anwendungssoftware in eine für Ihr Unternehmen passend geplante Infrastruktur.
+    Für die Auswahl der ERP-Software analysiert AVATAREC Ihr Unternehmen, um Ihnen den größtmöglichen Nutzen präsentieren zu können. Dabei berücksichtigen wir, dass neben der Produktion weitere Aspekte effektiv, übersichtlich und flexibel abdeckt sind. Klar ist zudem: Wir setzen unter dem Fokus der Wirtschaftlichkeit zukunftssichere Technik ein.
+    Wir bieten unseren Kunden Software und Hardware-Komponenten kombiniert als ganzheitliche Lösung an. Der Vertrieb des kompletten IT-Pakets aus einer Hand hat sich bewährt: So lassen sich die hohen Anforderungen an komplexe Warenwirtschaftslösungen ohne Reibungsverlust realisieren.
+  _key: text
+  _uid: text_1612623005094_220
+- 
+  line: 'true'
+  _key: ruler
+  _uid: ruler_1612623009038_220

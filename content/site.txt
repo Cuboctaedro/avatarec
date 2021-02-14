@@ -1,0 +1,41 @@
+Title: Avatarec
+
+----
+
+Footer-heading: Interesse?
+
+----
+
+Footer-subheading: Wenn Sie Interesse oder Fragen haben, setzen Sie sich mit uns in Verbindung.
+
+----
+
+Footer-company: AVATAREC Business Solutions GmbH
+
+----
+
+Footer-address:
+
+Gabelsbergerstr. 18
+59069 Hamm
+
+----
+
+Footer-phone: 02385 46292 0
+
+----
+
+Footer-fax: 02385 46292 99
+
+----
+
+Footer-email: info@avatarec.de
+
+----
+
+Footer-menu:
+
+- kontakt
+- impressum
+- datenschutz
+- agb

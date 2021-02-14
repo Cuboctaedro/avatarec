@@ -1,0 +1,46 @@
+Title: Karriere
+
+----
+
+Contentblocks:
+
+- 
+  image:
+    - karriere.jpg
+  _key: image
+  _uid: image_1612625469415_10296
+- 
+  text: Karriere
+  _key: subheading
+  _uid: subheading_1612625482422_10296
+- 
+  text: AVATAREC – auf zu neuen Ufern
+  _key: heading
+  _uid: heading_1612625488534_10296
+- 
+  text: |
+    Seit seiner Gründung im Jahr 2007 ist die AVATAREC Business Solutions GmbH stetig gewachsen und voll im Fluss. Über 20 Mitarbeiter sind inzwischen für uns tätig. Wir verstehen uns als Team, denn nur als eingespielte „Segel“-Crew können wir für unsere Kunden erfolgreich agieren: Alle ziehen an einem Strang. Jeder gibt sein Bestes und jeder kennt seine Aufgabe. Unser Ziel: zufriedene Kunden. Unser Leitspruch: „Das Bessere ist der Feind des Guten.“ Das entspricht auch Ihrer Einstellung? Dann passen Sie gut in unser Team!
+    
+    Derzeit suchen wir:
+    - Fachinformatiker-Systemintegration
+    - Systemadministratoren
+    
+    Haben Sie Interesse? Dann schicken Sie uns Ihre aussagekräftige Bewerbung an:
+  _key: text
+  _uid: text_1612625494935_10296
+
+----
+
+Address:
+
+AVATAREC
+Business Solutions GmbH
+
+Geschäftsführung
+Michael Kruse und Kai Schiereck
+Gabelsbergerstr. 18
+59069 Hamm
+
+----
+
+Email: job@avatarec.de

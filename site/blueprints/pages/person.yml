@@ -1,0 +1,23 @@
+title: Person
+
+columns: 
+  - width: 3/4
+    sections:
+        content:
+            type: fields
+            fields:
+                bio:
+                    type: textarea
+                    label: Bio
+                portrait:
+                    type: files
+                    multiple: false
+                    layout: cards
+  - width: 1/4
+    sections:
+        images:
+            type: files
+            headline: Page Images
+            layout: cards                    
+
+

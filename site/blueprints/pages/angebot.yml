@@ -1,0 +1,10 @@
+title: Angebot
+
+sections:
+    pages:
+        type: pages
+        status: all
+        sortable: true
+        templates: section
+        headline: Subpages
+

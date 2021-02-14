@@ -1,0 +1,78 @@
+title: Section
+
+columns: 
+  - width: 3/4
+    sections:
+        content:
+            type: fields
+            fields:
+                section_image:
+                    type: files
+                    multiple: false
+                    layout: cards
+                contentblocks:
+                    label: Blocks
+                    type: builder
+                    fieldsets:
+                        heading:
+                            name: Heading
+                            fields:
+                                text:
+                                    type: text
+                                    label: Heading
+                        subheading:
+                            name: Subheading
+                            fields:
+                                text:
+                                    type: text
+                                    label: Subheading
+                        text:
+                            name: Text
+                            fields:
+                                text:
+                                    type: textarea
+                                    label: Text
+                        image:
+                            name: Image
+                            fields:
+                                image:
+                                    type: files
+                                    multiple: false
+                                    layout: cards
+                        small_image:
+                            name: Small Image
+                            fields:
+                                image:
+                                    type: files
+                                    multiple: false
+                                    layout: cards
+                        ruler:
+                            name: Line
+                            fields:
+                                line:
+                                    type: toggle
+                                    label: Line
+                        logolinks:
+                            name: Logo Links
+                            fields:
+                                linkslist:
+                                    type: structure
+                                    fields:
+                                        link: 
+                                            name: Link
+                                            type: url
+                                        logo:
+                                            type: files
+                                            name: Logo
+                                            multiple: false
+                                            layout: cards
+  - width: 1/4
+    sections:
+        images:
+            type: files
+            headline: Page Images
+            layout: cards
+
+
+
+                         

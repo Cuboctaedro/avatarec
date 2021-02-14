@@ -1,0 +1,150 @@
+Title: MS Dynamics NAV
+
+----
+
+Section-image:
+
+- ms.jpg
+
+----
+
+Contentblocks:
+
+- 
+  image:
+    - ms-dynamics-logo.png
+  _key: small_image
+  _uid: small_image_1612623249988_133
+- 
+  text: MS Dynamics NAV
+  _key: subheading
+  _uid: subheading_1612623255156_133
+- 
+  text: Microsoft Dynamics NAV
+  _key: heading
+  _uid: heading_1612623262916_133
+- 
+  text: |
+    Microsoft Dynamics NAV (Navision) ist eine vollständig integrierte und einfach zu bedienende Unternehmenssoftware, mit der Sie alle Bereiche Ihres mittelständischen Betriebs in nur einer Software abbilden.
+    Die weltweit eingesetzte ERP-Software bietet leistungsfähige Kernfunktionalitäten für:
+    - Finanzmanagement
+    - Vertrieb und Marketing
+    - Fertigung
+    - Projektmanagement
+    - Supply Chain Management (SCM)
+    - Servicemanagement
+    - Business Intelligence (BI) und Reporting
+    - Personalwesen
+    
+    Der Aufbau ist Modular
+    
+    Die ERP-Software Microsoft Dynamics NAV ist modular aufgebaut. Die Module sind untereinander vollständig vernetzt. Der Vorteil: Das Arbeiten in verschiedenen Systemen, die mehrfache Erfassung von Daten in unterschiedlichen Abteilungen und die mühselige Suche nach Informationen gehören der Vergangenheit an.
+    Mit Dynamics NAV arbeiten Sie durchgängig in einer ERP-Software: Von Vertrieb und Einkauf über Disposition, Produktion sowie Lager und Logistik bis hin zu Finanzbuchhaltung und Controlling.
+    Steigern Sie Ihr Wachstum mit Dynamics NAV
+    Die ERP-Software Microsoft Dynamics NAV kann exakt an Ihre Anforderungen angepasst werden und mit Branchenlösungen ausgebaut werden. Dynamics NAV wird von Microsoft kontinuierlich weiterentwickelt. Die Einbindung neuer Technologien sowie garantierte Supportzeiträume schaffen Zukunfts- und Investitionssicherheit. Sie können Dynamics NAV sowohl lokal betreiben oder in der Cloud betreiben.
+    
+    Interesse oder Fragen? Setzen Sie sich gerne mit uns in (link: /kontakt text: Verbindung >)
+  _key: text
+  _uid: text_1612623266493_133
+- 
+  line: 'true'
+  _key: ruler
+  _uid: ruler_1612623349180_133
+- 
+  text: Finanzmanagement
+  _key: subheading
+  _uid: subheading_1612623354773_133
+- 
+  text: Dynamics NAV Finanzmanagement
+  _key: heading
+  _uid: heading_1612623360149_133
+- 
+  text: |
+    Mit Microsoft Dynamics NAV haben Sie eine deutlich bessere Kontrolle über die Finanzen und Buchhaltungsprozesse Ihres Unternehmens. Microsoft Dynamics NAV beinhaltet eine komplette Lösung zur Finanzbuchhaltung und deckt das komplette Aufgabenspektrum in der Finanzbuchhaltung ab, welches Sie nachhaltig bei täglichen Buchhaltungsaufgaben entlastet. Microsoft Dynamics NAV greift auf den unternehmensweiten Datenbestand zu, wodurch sich vielfältige Möglichkeiten für eine transparente Unternehmensanalysen bieten.
+    Umfangreiche Funktionalität
+    Microsoft Dynamics NAV hat einen großen Leistungsumfang, der über die grundlegenden Funktionen zur Finanzbuchhaltung (Kontenplan, Buchungsblätter, MwSt.-Funktionalität, wiederkehrende Buchungsblätter und Herkunftscodes) weit hinaus geht. Dynamics NAV beinhaltet:
+    - Kontenschemata
+    - Integrierte Buchungsroutinen
+    - Definierbare Zahlungsbedingungen für Kunden und Lieferanten
+    - Vollständige Nachvollziehbarkeit
+    - Automatisierte Geschäftsvorfälle
+    - Stornobuchungen
+    - Unterschiedliche Währungen
+    Unternehmensanalyse
+    Neben den vielen Analyse-Möglichkeiten die Microsoft Dynamics NAV schon Integriert hat, können Sie darüber hinaus Daten zur weiteren Bearbeitung und Analyse nach Excel zu übertragen.
+  _key: text
+  _uid: text_1612623363029_133
+- 
+  text: Vertrieb und Marketing
+  _key: heading
+  _uid: heading_1612623419589_133
+- 
+  text: |
+    Bei Ihren Vertriebs- und Marketingaktivitäten unterstützt Sie Microsoft Dynamics NAV mit leistungsstarken Optionen. Von der Marketing-Kampagne bis zum Verkaufsprozess stehen Ihnen entsprechende Werkzeuge zur Verfügung. Sie haben jederzeit Zugriff auf Kunden- und Kontaktdaten und deren Verkaufs- bzw. Auftragsstatus. Darüber hinaus sind die Daten auch mobil abrufbar.
+    Funktionen von Microsoft Dynamics NAV
+    - Kontaktverwaltung
+    - Verkaufschancenverwaltung
+    - Kampagnenmanagement
+    - Verkaufsanalyse
+    - Microsoft Outlook Integration
+    Erhöhen Sie Ihre Verkaufschancen mit Microsoft Dynamics NAV.
+  _key: text
+  _uid: text_1612623427534_133
+- 
+  line: 'true'
+  _key: ruler
+  _uid: ruler_1612623454213_133
+- 
+  text: Fertigung
+  _key: subheading
+  _uid: subheading_1612623459693_133
+- 
+  text: Microsoft Dynamics NAV Fertigung
+  _key: heading
+  _uid: heading_1612623464653_133
+- 
+  text: |
+    Steigern Sie mit Microsoft Dynamics NAV die Fertigungsprozesse in Ihrem Unternehmen! Mithilfe einer flexiblen Fertigung können Sie schnell auf sich ändernde Kundenanforderungen reagieren. Der automatisierte Fertigungsprozess unterstützt Sie dabei, fristgerechte Lieferungen einzuhalten.
+    Durch die abgebildeten Prozesse und Workflows haben Sie bereits im Standard eine umfangreiche Unterstützung Ihrer Fertigungsprozesse.
+    Funktionen:
+    • Manuelle Planung	• Grafische Plantafel
+    • Materialbedarfsplanung	• Artikelverfügbarkeitsdaten
+    • Lieferkettenplanung	• Flexible Planung von Verkauf-,
+    Bestell- und Fertigungsaufträgen
+    • Chargen- und Seriennummern- Verfolgung	• Mehrstufige Fertigungsaufträge
+    Mehr Effizienz durch automatisierte Prozesse die Ihnen viel Zeit bei der Planung und während der Fertigung spart.
+  _key: text
+  _uid: text_1612623473183_133
+- 
+  text: Projektmanagement
+  _key: heading
+  _uid: heading_1612623479966_133
+- 
+  text: |
+    Microsoft Dynamics NAV unterstützt Sie bei der Planung und Durchführung von Aufträgen und Projekten mit flexiblen Funktionen für Ressourcenmanagement, Budgetierung und Abrechnung. Durch umfangreiche Funktionen zur Ressourcen- und Kapazitätsplanung wird das Projektmanagement vereinfacht. Sie erhalten detaillierte Informationen und eine Übersicht über die laufenden und geplanten Projekte und können so, entsprechende Entscheidungen treffen.
+    • Ressourcenmanagement	• Projektaufgaben
+    • Budgetstruktur	• Umsatzrealisierung
+    • Artikelverfolgung	• Verbindung mit dem Einkauf
+    • Zeiterfassung
+  _key: text
+  _uid: text_1612623489534_133
+- 
+  line: 'true'
+  _key: ruler
+  _uid: ruler_1612623494694_133
+- 
+  text: Lösungen
+  _key: subheading
+  _uid: subheading_1612623501407_133
+- 
+  text: Individuelle und schnelle Lösungen
+  _key: heading
+  _uid: heading_1612623506559_133
+- 
+  text: |
+    Microsoft Dynamics NAV stellt die Basisfunktionen einer ERP Lösung bereit. Trotzdem hat jedes Unternehmen seine eigenen Strukturen und Arbeitsabläufe. Microsoft Dynamics NAV kann individuell an Ihre Unternehmensstrukturen angepasst werden, sodass Sie alle relevanten Daten und Informationen immer abrufen können.
+    Individuell erstellte Lösungen eines Konfigurators, Ticketsystem, Amortisations-Tool, Packschein-Tool mit NVE (Nummer der Versandeinheit).
+    
+    Interesse oder Fragen? Setzen Sie sich gerne mit uns in (link: /kontakt text: Verbindung >)
+  _key: text
+  _uid: text_1612623519927_133

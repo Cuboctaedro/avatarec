@@ -1,0 +1,137 @@
+Title: Partner
+
+----
+
+Contentblocks:
+
+- 
+  image:
+    - partner.jpg
+  _key: image
+  _uid: image_1612624239741_4340
+- 
+  text: Partner
+  _key: heading
+  _uid: heading_1612624251540_4340
+- 
+  text: |
+    Wo Wasser zusammenfließt, kann ein starker Strom entstehen. Wo zwei kompetente Unternehmen zusammenarbeiten, können neue Kräfte wachsen. Die richtigen Partner sind Ihr Garant für Sicherheit und Zuverlässigkeit. Wir lassen unser Wissen, unsere Erfahrung und unsere Energie einfließen, um Ihr Unternehmen im IT-Bereich bestmöglich zu unterstützen.
+    
+    Auch AVATAREC hat Strukturen starker Partner im Rücken, um eine sichere Brücke zwischen den Teilbereichen der EDV zu schaffen: Als Microsoft Partner und Servicepartner von Fujitsu Technology Solutions sowie weiteren namhaften Herstellern sind wir hervorragend aufgestellt und bieten Ihnen hochprofessionellen Service.
+  _key: text
+  _uid: text_1612624261293_4340
+
+----
+
+Partnerlist:
+
+- 
+  name: APC
+  link: https://www.apc.com/
+  logo:
+    - apc_200px.jpg
+- 
+  name: BvD ev
+  link: https://www.bvdnet.de/
+  logo:
+    - bvd_200px.jpg
+- 
+  name: Collax
+  link: https://www.collax.com/
+  logo:
+    - collax_200px.jpg
+- 
+  name: Deutsche Telefon
+  link: https://www.deutsche-telefon.de/
+  logo:
+    - deutsche_telefon_200px.jpg
+- 
+  name: Fujitsu
+  link: https://www.fujitsu.com/
+  logo:
+    - fsc_200px.jpg
+- 
+  name: Gigaset
+  link: https://www.gigaset.com/
+  logo:
+    - gigaset_200px.jpg
+- 
+  name: Huawei
+  link: https://consumer.huawei.com/
+  logo:
+    - huawei_200px.jpg
+- 
+  name: Jabra
+  link: http://www.jabra.com/
+  logo:
+    - jabra_200px.jpg
+- 
+  name: Kyocera
+  link: https://global.kyocera.com/
+  logo:
+    - kyocera_200px.jpg
+- 
+  name: Lancom
+  link: https://www.lancom-systems.com/
+  logo:
+    - lancom_200px.jpg
+- 
+  name: LexWare
+  link: https://www.lexware.de/
+  logo:
+    - lexware_200px.jpg
+- 
+  name: Logitech
+  link: https://www.logitech.com/
+  logo:
+    - logitech_200px.jpg
+- 
+  name: Microsoft Dynamics
+  link: https://dynamics.microsoft.com/
+  logo:
+    - microsoftdynamics_200px.jpg
+- 
+  name: Net at Work
+  link: https://www.netatwork.com/
+  logo:
+    - netatwork_200px.jpg
+- 
+  name: NoSpam
+  link: https://www.nospamproxy.de/
+  logo:
+    - nospam_200px.jpg
+- 
+  name: Panasonic Business
+  link: https://www.panasonic.com/
+  logo:
+    - panasonic_200px.jpg
+- 
+  name: Panda
+  link: https://www.pandasecurity.com/
+  logo:
+    - panda_200px.jpg
+- 
+  name: Samsung
+  link: https://www.samsung.com/
+  logo:
+    - samsung_200px.jpg
+- 
+  name: Ubiquiti
+  link: https://www.ui.com/
+  logo:
+    - ubiquiti_200px.jpg
+- 
+  name: Veeam
+  link: https://www.veeam.com/
+  logo:
+    - veeam_200px.jpg
+- 
+  name: vmWare
+  link: https://www.vmware.com/
+  logo:
+    - vmware_200px.jpg
+- 
+  name: Watch Guard
+  link: https://www.watchguard.com/
+  logo:
+    - watchguard_200px.jpg

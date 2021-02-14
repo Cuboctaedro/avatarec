@@ -1,0 +1,54 @@
+Title: Home
+
+----
+
+Contentblocks-one:
+
+- 
+  text: >
+    AVATAREC – für den sicheren
+    Datenfluss
+  _key: heading
+  _uid: heading_1612622385651_791
+- 
+  text: |
+    Im Wasser bleibt alles im Fluss – von der Quelle bis zur Mündung. Das Geheimnis des Wassers: Es besteht aus einem gut funktionierenden Netz. Die Natur macht es uns vor, wie es geht, und wir setzen es im IT-Bereich um – auf unsere Weise und für Ihre Ansprüche! Damit Informationen und der Daten reibungslos fließen, schafft unser Experten-Team Komplettlösungen für die Planung von Unternehmensressourcen (ERP) und EDV-Netzwerke. Unsere nautische Navigation: Unser Support für Sie! Wir sind 24/7 Ihre „Rettungsschwimmer“, helfen als „Wasserschutzpolizei“ und sorgen dafür, dass Ihre Yacht sicher in jedem Hafen ankommt!  
+    Wir stellen hohe Ansprüche an das EDV-Netz: Es soll wie das Wasser oberflächenstabil und dennoch flexibel sein. Sie wünschen sich ein solches Netzwerk? Dann kommen Sie ganz unverbindlich mit uns ins Gespräch!
+    Verlass muss sein. Deshalb setzen wir auf Qualität und bewährte Produkte. Als Certified Partner von Microsoft Dynamics NAV und Partner von Fujitsu Technology Solutions sowie dem Archivsystemanbieter Windream kann AVATAREC seinen Kunden maximalen Service und beste Qualität bieten.
+  _key: text
+  _uid: text_1612622395803_791
+- 
+  text: AVATAREC – stille Wasser sind tief
+  _key: heading
+  _uid: heading_1612622406619_791
+- 
+  text: 'Wir machen keine große Welle. Wir überzeugen lieber mit Leistung nach dem einfachen Grundsatz: „Das Bessere ist der Feind des Guten“, oder um weiter beim Seemannsgarn zu bleiben: „Auch in stürmischer See sind wir der ruhende Kahn mit vielen hilfreichen Rettungsbooten – für Sie, Ihre Mitarbeiter und Ihre Kunden! Die Unternehmensgründer, „unsere erfahrenen Kapitäne“, Michael Kruse und Kai Schiereck konzentrieren sich mit ihrem Team auf ein gemeinsames Ziel: technisch sowie kaufmännisch komplexe Aufgaben im Sinne der Auftraggeber zu lösen.'
+  _key: text
+  _uid: text_1612622412739_791
+- 
+  line: 'true'
+  _key: ruler
+  _uid: ruler_1612622416340_791
+
+----
+
+Contentblocks-two:
+
+- 
+  text: Philosophie und Historie
+  _key: subheading
+  _uid: subheading_1612622428484_807
+- 
+  text: AVATAREC – von der Quelle zum Meer
+  _key: heading
+  _uid: heading_1612622436035_807
+- 
+  text: |
+    Unser Unternehmen wurde 2007 gegründet. Alle aktuellen Mitarbeiter der AVATAREC Business Solutions GmbH bringen es gemeinsam auf über 200 Jahre Berufserfahrung. Unsere Experten genießen großes Vertrauen – auch bei namhaften Großunternehmen, die uns für die Entwicklung, Wartung und Pflege ihrer EDV-Strukturen beauftragen.
+    Wir legen Wert auf qualifizierte Mitarbeiter und haben verschiedene Spezialisten im Team, die sich ständig weiter Fortbilden, um immer auf dem neuesten Stand der Technik agieren zu können. So haben Sie als Kunde die Möglichkeit, Ihre gesamte EDV aus einer Hand zu erhalten – inklusive Hardware, Software und Beratung.
+  _key: text
+  _uid: text_1612622443284_807
+- 
+  line: 'true'
+  _key: ruler
+  _uid: ruler_1613219614158_348

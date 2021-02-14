@@ -1,0 +1,56 @@
+title: Kontakt
+
+columns: 
+  - width: 3/4
+    sections:
+        content:
+            type: fields
+            fields:
+                image:
+                    type: files
+                    multiple: false
+                    layout: cards
+                company_name:
+                    type: text
+                    label: Name
+                address:
+                    type: textarea
+                    label: Address
+                phone:
+                    type: tel
+                    label: Phone
+                fax:
+                    type: tel
+                    label: Fax
+                email:
+                    type: email
+                    label: Email
+                website:
+                    type: url
+                    label: Website
+                boss:
+                    type: text
+                    label: Geschäftsführer
+                register:
+                    type: text
+                    label: Handelsregister
+                hrb:
+                    type: text
+                    label: HRB
+                sitz:
+                    type: text
+                    label: Sitz des Unternehmens
+                ust:
+                    type: text
+                    label: Ust.Id Nr.
+
+  - width: 1/4
+    sections:
+        images:
+            type: files
+            headline: Page Images
+            layout: cards
+
+
+
+                         

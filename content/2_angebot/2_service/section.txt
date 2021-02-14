@@ -1,0 +1,49 @@
+Title: Service
+
+----
+
+Section-image:
+
+- service.jpg
+
+----
+
+Contentblocks:
+
+- 
+  text: Service
+  _key: subheading
+  _uid: subheading_1612623027691_1927
+- 
+  text: >
+    AVATAREC – kein Sprung ins kalte
+    Wasser
+  _key: heading
+  _uid: heading_1612623031092_1927
+- 
+  text: |
+    Einen neuen Auftrag zu vergeben, kann den Sprung ins kalte Wasser bedeuten. Denn einen guten Service, den versprechen viele IT-Dienstleister. Wie haben den „wärmenden und passenden Neoprenanzug“ für Sie, damit Sie keinen „Schiffbruch“ erleiden und mit „IT-Unterkühlung“ baden gehen.
+    Aber letztlich kann die tatsächlich erbrachte Qualität immer erst im Nachhinein beurteilt werden. Bei uns ist „Service“ kein leeres Wort, sondern eine Selbstverständlichkeit. Wir nehmen das uns entgegengebrachte Vertrauen sehr ernst. Schließlich sehen wir die Geschäftsbeziehung mit unseren Kunden als langfristige Partnerschaft!
+    
+    Unsere Mitarbeiter sind hochmotiviert und bestens qualifiziert. AVATAREC wartet Ihre IT-Struktur sicher und zuverlässig. Bei Ausfällen leisten wir schnellstens kompetente Hilfe.
+    Testen Sie uns, wir sind für Sie da!
+  _key: text
+  _uid: text_1612623039828_1927
+- 
+  line: 'true'
+  _key: ruler
+  _uid: ruler_1612623045332_1927
+- 
+  text: Support
+  _key: subheading
+  _uid: subheading_1612623052876_1927
+- 
+  text: AVATAREC – mit uns im sicheren Hafen
+  _key: heading
+  _uid: heading_1612623059925_1927
+- 
+  text: |
+    Ein sicherer Hafen ist wichtig für ein sicheres IT-System. Wir haben für unsere Kunden die entsprechenden Lotzen! Sie können uns immer erreichen. Ein Notdienst-Lotze, bringt Ihre IT zurück auf ruhige Gewässer. Wir sind im Notfall für Sie 24/7 im Einsatz – spontan, schnell und Krisenerfahren.
+    Nehmen Sie mit uns Kontakt auf, wir schalten uns über unseren Team Viewer direkt auf Ihren Problemfall und sorgen gemeinsam mit Ihnen für einen ruhigen und sicheren (Daten)Fluss – von der Quelle bis zur Mündung!
+  _key: text
+  _uid: text_1612623075404_1927

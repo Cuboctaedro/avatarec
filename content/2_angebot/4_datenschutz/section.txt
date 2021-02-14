@@ -1,0 +1,41 @@
+Title: Datenschutz
+
+----
+
+Section-image:
+
+- datenschutz.jpg
+
+----
+
+Contentblocks:
+
+- 
+  text: >
+    Datenschutz für Sie! (als
+    Dienstleistung)
+  _key: subheading
+  _uid: subheading_1612623690868_2473
+- 
+  text: 'AVATAREC - schützt den Datenfluss'
+  _key: heading
+  _uid: heading_1612623696565_2473
+- 
+  text: |
+    Immer aktuell, immer wichtig und immer rechtlich abgesichert! Am 25. Mai 2018 ist eine neue EU-Datenschutzgrundverordnung (DSGVO) in Kraft getreten. Die DSGVO stellt hohe Anforderungen an die Informationen über die Datenerhebung und -verarbeitung.
+    Im Wesentlichen muss die Datenschutzgrundverordnung über Art, Umfang und Zweck der Erhebung sowie Verwendung von personenbezogenen Daten informieren – die Anforderungen für Unternehmen sind gestiegen. Darunter fallen neben der Erfassung von IP-Adressen und Personendaten auch Hinweise zum Umgang mit Social Plugins, wie dem Facebook „Like“-Button, der Umgang mit Kontaktformularen, die Nutzung von Cookies, der Einsatz von Analyse-Tools, wie etracker- und Google Analytics, oder Targeting- und Zielgruppenoptimierungs-Tools.
+    Wir lassen Sie weder alleine im Regen stehen noch von einer Flutwelle umreißen! Wir sind die „Wasserschutzpolizei“ für Ihren Datenfluss!
+  _key: text
+  _uid: text_1612623703957_2473
+- 
+  linkslist:
+    - 
+      link: https://www.bvdnet.de/
+      logo:
+        - bvd-logo.png
+    - 
+      link: https://www.dekra.com/
+      logo:
+        - dekra-logo.png
+  _key: logolinks
+  _uid: logolinks_1613234566041_707
