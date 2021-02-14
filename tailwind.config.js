@@ -1,7 +1,12 @@
 module.exports = {
-    purge: [
-        './*.twig', './partials/*.twig'
+    purge: {
+      content: [
+        'site/templates/*.php', 'site/snippets/*.php'
     ],
+    options: {
+      safelist: ['is-visible', 'is-scrolled', 'is-current'],
+    }
+    } ,
     presets: [],
     darkMode: false, // or 'media' or 'class'
     corePlugins: {

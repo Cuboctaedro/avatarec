@@ -129,6 +129,16 @@
 .glow:hover {
     box-shadow: 0 0 24px 8px rgba(255,255,255,0.5);
 }
+
+.partner-logo img {
+    filter: grayscale(90%);
+    transition: filter 300ms ease;
+}
+
+.partner-logo:hover img {
+    filter: none;
+}
+
 @screen sm {
     .hero {
         padding-top: 50%;
