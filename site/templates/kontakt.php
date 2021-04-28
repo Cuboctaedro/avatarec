@@ -5,8 +5,7 @@
     <div class="lg:flex flex-row items-start">
         <div class="mb-6 flex flex-col justify-center items-center">
             <div class="rounded-full w-36 h-36 border-gray-800 border overflow-hidden relative">
-                <div class="absolute inset-0 bg-teal-400 opacity-50"></div>
-                <img src="<?= asset('assets/images/haus-avatarec.jpg')->url() ?>" class="w-36 h-36" alt="Das Geschäftshaus in Hamm" />
+                <img src="<?= asset('assets/images/haus-avatarec-blau.jpg')->url() ?>" class="w-36 h-36" alt="Das Geschäftshaus in Hamm" />
             </div> 
             <p class="pt-3 text-base text-center">Das Geschäftshaus in Hamm</p>
         </div>

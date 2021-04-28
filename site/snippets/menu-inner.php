@@ -10,7 +10,7 @@ $karriere = $pages->find('karriere');
         <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24" class="fill-current"><path d="M0 0h24v24H0z" fill="none"/><path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/></svg>
     </button>
     <ul 
-        class="main-menu fixed z-30 left-0 right-0 h-full bg-teal-600 flex flex-col justify-center items-center text-xl
+        class="main-menu fixed z-30 left-0 right-0 h-full bg-teal-400 flex flex-col justify-center items-center text-xl
          lg:flex-row lg:text-sm lg:h-12 lg:top:0 <?php if (!$page->isHomePage()) : ?> is-scrolled <?php endif; ?>"
         id="menu"
     >

@@ -2,9 +2,15 @@ Title: MS Dynamics NAV
 
 ----
 
+Homepage-image:
+
+- ms-dynamics-home.jpg
+
+----
+
 Section-image:
 
-- ms.jpg
+- 11_produkte-loesungen.jpg
 
 ----
 

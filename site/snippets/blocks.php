@@ -2,11 +2,11 @@
 
     <?php if ($block->_key()->value() === 'heading') : ?>
 
-        <h2 class="container text-center mb-3 font-bold text-xl sm:text-2xl md:text-3xl text-teal-600"><?= $block->text() ?></h2>
+        <h2 class="container text-center mb-3 font-bold text-xl sm:text-2xl md:text-3xl text-teal-500"><?= $block->text() ?></h2>
     
     <?php elseif ($block->_key()->value() === 'subheading') : ?>
         
-        <h3 class="container text-center mb-3 font-bold text-base sm:text-lg md:text-xl text-teal-600"><?= $block->text() ?></h3>
+        <h3 class="container text-center mb-3 font-bold text-base sm:text-lg md:text-xl text-teal-500"><?= $block->text() ?></h3>
 
     <?php elseif ($block->_key()->value() === 'image') : ?>
 

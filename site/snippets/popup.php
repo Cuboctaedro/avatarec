@@ -8,7 +8,7 @@
     >
         <?= $popup_label ?>
     </button>
-    <div class="absolute inset-0 bg-photoblue opacity-40 z-10"></div>
+    <!-- <div class="absolute inset-0 bg-photoblue opacity-40 z-10"></div> -->
     <img src="<?= $popup_img_src ?>" class="w-36 h-36 object-cover" alt="<?= $popup_img_alt ?>" />
     <div class="fixed inset-0 z-50 hidden" style="background-color:rgba(0,0,0,.5);" id="<?= $popup_id ?>" aria-labelledby="<?= $popup_id ?>-title">
         <div class="fixed overflow-y-scroll w-32 h-48 transform -translate-x-16 -translate-y-24 sm:w-48 sm:-translate-x-24 p-4 top-1/2 left-1/2 flex flex-col items-center justify-center

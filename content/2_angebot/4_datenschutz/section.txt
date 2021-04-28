@@ -2,9 +2,15 @@ Title: Datenschutz
 
 ----
 
+Homepage-image:
+
+- datenschutz-home.jpg
+
+----
+
 Section-image:
 
-- datenschutz.jpg
+- 15_datenschutz.jpg
 
 ----
 

@@ -6,7 +6,7 @@ Contentblocks:
 
 - 
   image:
-    - karriere.jpg
+    - 09_karriere.jpg
   _key: image
   _uid: image_1612625469415_10296
 - 

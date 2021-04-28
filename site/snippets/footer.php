@@ -7,7 +7,7 @@
                     <span class="text-white block"><?= $site->footer_subheading() ?></span>
                 </h2>
                 <div class="text-center text-base xl:text-lg">
-                    <h3 class="font-bold text-teal-600"><?= $site->footer_company() ?></h3>
+                    <h3 class="font-bold text-teal-500"><?= $site->footer_company() ?></h3>
                     <div class="mb-3 text-white"><?= $site->footer_address()->kt() ?></div>
                     <div class="mb-3 text-white">
                         <p>

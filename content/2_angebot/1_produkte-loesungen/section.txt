@@ -2,9 +2,15 @@ Title: Produkte & Lösungen
 
 ----
 
+Homepage-image:
+
+- produkte-loesungen-home.jpg
+
+----
+
 Section-image:
 
-- produkte.jpg
+- 06_produkte-loesungen.jpg
 
 ----
 
@@ -91,7 +97,7 @@ Contentblocks:
   _uid: text_1612622717870_220
 - 
   image:
-    - erp.jpg
+    - 12_erp.jpg
   _key: image
   _uid: image_1612622976725_220
 - 

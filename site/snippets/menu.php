@@ -35,7 +35,7 @@ $karriere = $pages->find('karriere');
             <li class="">
                 <a 
                     class="text-white hover:text-magenta-500 text-center transition-colors duration-200 
-                    <?php if ($angebot->isActive()) : ?> lg:bg-magenta-400 <?php else : ?> lg:bg-teal-600 <?php endif; ?>
+                    <?php if ($angebot->isActive()) : ?> lg:bg-magenta-400 <?php else : ?> lg:bg-teal-400 <?php endif; ?>
                     lg:h-6 flex items-center justify-center lg:px-2  lg:mx-1 lg:uppercase lg:hover:text-white lg:hover:bg-magenta-400"
                     href="<?= $angebot->isActive() ? '#' . $child->slug() : $angebot->url() . '#' . $child->slug() ?>"
                 >
@@ -46,7 +46,7 @@ $karriere = $pages->find('karriere');
         <li class="">
             <a 
                 class="text-white hover:text-magenta-500 text-center transition-colors duration-200 
-                <?php if ($partner->isActive()) : ?> lg:bg-magenta-400 <?php else : ?> lg:bg-teal-600 <?php endif; ?>
+                <?php if ($partner->isActive()) : ?> lg:bg-magenta-400 <?php else : ?> lg:bg-teal-400 <?php endif; ?>
                 lg:h-6 flex items-center justify-center lg:px-2  lg:mx-1 lg:uppercase lg:hover:text-white lg:hover:bg-magenta-400"
                 href="<?= $partner->url() ?>"
             >
@@ -56,7 +56,7 @@ $karriere = $pages->find('karriere');
         <li class="">
             <a 
                 class="text-white hover:text-magenta-500 text-center transition-colors duration-200 
-                <?php if ($karriere->isActive()) : ?> lg:bg-magenta-400 <?php else : ?> lg:bg-teal-600 <?php endif; ?>
+                <?php if ($karriere->isActive()) : ?> lg:bg-magenta-400 <?php else : ?> lg:bg-teal-400 <?php endif; ?>
                 lg:h-6 flex items-center justify-center lg:px-2  lg:mx-1 lg:uppercase lg:hover:text-white lg:hover:bg-magenta-400"
                 href="<?= $karriere->url() ?>"
             >

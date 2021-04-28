@@ -6,10 +6,18 @@ columns:
         content:
             type: fields
             fields:
-                section_image:
+                homepage_image:
+                    label: HomePage Image
                     type: files
                     multiple: false
                     layout: cards
+                    width: 1/2
+                section_image:
+                    label: Section Image
+                    type: files
+                    multiple: false
+                    layout: cards
+                    width: 1/2
                 contentblocks:
                     label: Blocks
                     type: builder

@@ -6,7 +6,7 @@ Contentblocks:
 
 - 
   image:
-    - partner.jpg
+    - 07_partner.jpg
   _key: image
   _uid: image_1612624239741_4340
 - 
@@ -27,7 +27,7 @@ Partnerlist:
 
 - 
   name: APC
-  link: https://www.apc.com/
+  link: https://www.se.com
   logo:
     - apc_200px.jpg
 - 
@@ -47,7 +47,7 @@ Partnerlist:
     - deutsche_telefon_200px.jpg
 - 
   name: Fujitsu
-  link: https://www.fujitsu.com/
+  link: https://www.fujitsu.com/de/
   logo:
     - fsc_200px.jpg
 - 
@@ -57,22 +57,22 @@ Partnerlist:
     - gigaset_200px.jpg
 - 
   name: Huawei
-  link: https://consumer.huawei.com/
+  link: https://consumer.huawei.com/de
   logo:
     - huawei_200px.jpg
 - 
   name: Jabra
-  link: http://www.jabra.com/
+  link: https://www.jabra.com.de
   logo:
     - jabra_200px.jpg
 - 
   name: Kyocera
-  link: https://global.kyocera.com/
+  link: https://germany.kyocera.com/
   logo:
     - kyocera_200px.jpg
 - 
   name: Lancom
-  link: https://www.lancom-systems.com/
+  link: https://www.lancom-systems.de/
   logo:
     - lancom_200px.jpg
 - 
@@ -82,7 +82,7 @@ Partnerlist:
     - lexware_200px.jpg
 - 
   name: Logitech
-  link: https://www.logitech.com/
+  link: https://www.logitech.com/de-de
   logo:
     - logitech_200px.jpg
 - 
@@ -92,7 +92,7 @@ Partnerlist:
     - microsoftdynamics_200px.jpg
 - 
   name: Net at Work
-  link: https://www.netatwork.com/
+  link: https://www.netatwork.de/
   logo:
     - netatwork_200px.jpg
 - 
@@ -102,7 +102,7 @@ Partnerlist:
     - nospam_200px.jpg
 - 
   name: Panasonic Business
-  link: https://www.panasonic.com/
+  link: https://www.panasonic.com/de/
   logo:
     - panasonic_200px.jpg
 - 
@@ -112,7 +112,7 @@ Partnerlist:
     - panda_200px.jpg
 - 
   name: Samsung
-  link: https://www.samsung.com/
+  link: https://www.samsung.com/de/
   logo:
     - samsung_200px.jpg
 - 
@@ -127,11 +127,11 @@ Partnerlist:
     - veeam_200px.jpg
 - 
   name: vmWare
-  link: https://www.vmware.com/
+  link: https://www.vmware.com/de.html
   logo:
     - vmware_200px.jpg
 - 
   name: Watch Guard
-  link: https://www.watchguard.com/
+  link: https://www.watchguard.com/de
   logo:
     - watchguard_200px.jpg

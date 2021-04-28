@@ -1,5 +1,5 @@
 <header class="container text-center mb-2 mt-4">
-    <h2 class="font-bold text-xl sm:text-2xl md:text-3xl text-teal-600">Über uns:</h2>
+    <h2 class="font-bold text-xl sm:text-2xl md:text-3xl text-teal-500">Über uns:</h2>
 </header>
 
 <div class="flex flex-col xl:flex-row items-center xl:items-start justify-center relative">
@@ -31,7 +31,7 @@
             'popup_id' => 'contact-popup',
             'popup_label' => 'Standort <br />Kontakt',
             'popup_title' => $kontakt->company_name(),
-            'popup_img_src' => asset('assets/images/haus-avatarec.jpg')->url(),
+            'popup_img_src' => asset('assets/images/haus-avatarec-blau.jpg')->url(),
             'popup_img_alt' => 'Das Geschäftshaus in Hamm',
             'popup_content' => $kontakt_content
         ]);

@@ -13,6 +13,11 @@ columns:
         contactdata:
             type: fields
             fields:
+                hero_image:
+                    label: Homepage Image
+                    type: files
+                    multiple: false
+                    layout: cards
                 headline:
                     label: Footer
                     type: headline

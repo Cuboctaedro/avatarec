@@ -32,7 +32,12 @@
                     <img src="<?= asset('assets/images/logo.png')->url() ?>" alt="Avatarec Logo">
                 </div>
                 <div class="background absolute inset-0 z-0">
-                    <img src="<?= asset('assets/images/hero.jpg')->url() ?>" alt="" class="object-cover object-center w-full h-full relative z-0">
+                    <?php if ($site->hero_image()->is_not_empty()) : ?>
+                        <?php $homeimage = $site->hero_image()->toFile(); ?>
+                        <img src="<?= $homeimage->url() ?>" alt="" class="object-cover object-center w-full h-full relative z-0">
+                    <?php else : ?>
+                        <img src="<?= asset('assets/images/hero.jpg')->url() ?>" alt="" class="object-cover object-center w-full h-full relative z-0">
+                    <?php endif; ?>
                 </div>
                 <h1 class="relative z-10 text-lg sm:text-xl md:text-4xl lg:text-5xl xl:text-6xl text-gray-1000 font-bold mt-1 sm:mt-2 md:mt-3 lg:mt-4">
                 Alles im (Daten)Fluss

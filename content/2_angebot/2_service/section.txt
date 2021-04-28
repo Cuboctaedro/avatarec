@@ -2,9 +2,15 @@ Title: Service
 
 ----
 
+Homepage-image:
+
+- service-home.jpg
+
+----
+
 Section-image:
 
-- service.jpg
+- 17_service.jpg
 
 ----
 

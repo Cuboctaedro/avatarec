@@ -2,6 +2,12 @@ Title: Avatarec
 
 ----
 
+Hero-image:
+
+- 02_start.jpg
+
+----
+
 Footer-heading: Interesse?
 
 ----
